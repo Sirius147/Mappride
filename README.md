@@ -161,7 +161,7 @@ https://www.notion.so/playdatacademy/API-1c3d943bcac2802e9250f00063c69ebb?pvs=4
 <summary> <b> 마이 페이지 </b> </summary>
 <div markdown="1">
 
-![Image](https://github.com/user-attachments/assets/19eee04d-0ddb-4a34-95cd-fcbec88de91f)
+![Image](https://github.com/user-attachments/assets/333265de-92ab-4e84-b77e-b2591c2c68ea)
 
 
 
@@ -280,7 +280,7 @@ https://www.notion.so/playdatacademy/API-1c3d943bcac2802e9250f00063c69ebb?pvs=4
 <summary> <b> 마이 페이지 </b> </summary>
 <div markdown="1">
 
-![Image](https://github.com/user-attachments/assets/7f66610f-2d5a-4e59-bb1a-4f7949579d41)
+![Image](https://github.com/user-attachments/assets/9fdf8ac6-3e19-4213-a50b-767fb0c528e0)
 
 
 </div>
